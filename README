@@ -1,0 +1,2 @@
+watchify src/app.ts -p tsify --debug -o dist/app.js
+
